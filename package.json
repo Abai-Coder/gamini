@@ -1,0 +1,22 @@
+{
+  "name": "openai_with_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "advanced-calculator": "^1.1.1",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.21",
+    "openai": "^4.28.0",
+    "pdf-parse": "^1.1.1",
+    "youtube-transcript": "^1.0.6",
+    "youtubei.js": "^9.1.0"
+  },
+  "type": "module"
+}
